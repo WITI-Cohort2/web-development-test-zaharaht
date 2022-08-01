@@ -1,0 +1,19 @@
+(a)
+elments are tags that used when designing aweb page
+example
+heading element
+paragraph element
+(b)
+Attriutes are those that specify agiven element
+examples
+class
+id 
+source
+(c)
+selectors are user defined values that are attached to the attributes
+(d)
+semantic elements are elements whose meaning is defined in the web page
+examples
+form element
+table element
+aside element
